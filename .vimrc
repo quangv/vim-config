@@ -514,10 +514,10 @@ call arpeggio#map('i', '', 0, 'jk', '<ESC>')
 " Colorscheme
 
 " Use solarized colorscheme
-colorscheme solarized
+"colorscheme solarized
 
 " Setting up light color scheme
-set background=light
+set background=dark
 
 " set highlighting for colorcolumn
 highlight ColorColumn ctermbg=lightGrey
@@ -629,7 +629,7 @@ set nostartofline
 set nowrap
 
 " Display Line numbers
-set number
+"set number
 
 " Highlight line with cursor
 set cursorline
